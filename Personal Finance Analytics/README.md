@@ -18,7 +18,7 @@ Write a short 2–3 sentence introduction explaining that this project analyzes 
 
 Add my dashboard screenshots using these paths:
 
-![Overview Dashboard](images/overview.png)
+![Overview Dashboard](Personal Finance Analytics/execuite overview png.png)
 
 ![Expense Analysis Dashboard](images/expense-analysis.png)
 
