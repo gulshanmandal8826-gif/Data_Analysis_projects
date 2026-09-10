@@ -20,7 +20,7 @@ Add my dashboard screenshots using these paths:
 
 ![Overview Dashboard](https://github.com/gulshanmandal8826-gif/Data_Analysis_projects/blob/my_new_branch/Personal%20Finance%20Analytics/execuite%20overview%20png.png)
 
-![Expense Analysis Dashboard](images/expense-analysis.png)
+![Expense Analysis Dashboard](https://github.com/gulshanmandal8826-gif/Data_Analysis_projects/blob/my_new_branch/Personal%20Finance%20Analytics/expense%20analysis%20png.png)
 
 Add a short explanation below the images.
 
