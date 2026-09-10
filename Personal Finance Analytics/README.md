@@ -24,7 +24,7 @@ Add my dashboard screenshots using these paths:
 
 ![savings analysis](https://github.com/gulshanmandal8826-gif/Data_Analysis_projects/blob/my_new_branch/Personal%20Finance%20Analytics/savings%20analysis%20png.png)
 
-![Demographic analysis]()
+![Demographic analysis](https://github.com/gulshanmandal8826-gif/Data_Analysis_projects/blob/my_new_branch/Personal%20Finance%20Analytics/Demographic%20analysis%20png.png)
 Add a short explanation below the images.
 
 ## 🎯 Project Objective
